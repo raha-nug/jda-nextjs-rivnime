@@ -8,6 +8,7 @@ const navbarList = [
   { name: "Anime", href: "/anime" },
   { name: "About", href: "/about" },
   { name: "Contact", href: "/contact" },
+  { name: "Watch List", href: "/watch-list" },
 ];
 
 export default function Navbar() {
